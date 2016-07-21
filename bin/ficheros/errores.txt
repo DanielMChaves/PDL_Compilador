@@ -1,4 +1,0 @@
-Error en la linea: 10
-Error en el Analizador SinSem: El argumento 1 de la función 'restaDoble' deberia ser de tipo 'entero'
-                               pero es de tipo 'null'
-
